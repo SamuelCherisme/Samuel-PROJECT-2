@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Righteous');
+
+
+body{
+    background: url('https://i.pinimg.com/originals/b0/0b/36/b00b369f91445f71d828a89390508f6c.jpg');
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    font-weight:bold;
+    color:purple;
+  
+    
+  
+}
+
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:ghostwhite;
+    margin: 0;
+    margin-bottom: .5em;
+    padding: 1em;
+    text-align: center;
+    opacity: 0.5;
+}
+
+a{
+    color: yellow;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+    font-size: 1.5em;
+    background: rgba(193, 235 , 187, .9);
+}
+
+a:hover {
+color: ghostwhite;
+}
+
+li{
+    list-style: none;
+}
+
+li a {
+    color: ghostwhite;
+}
+
+input[type=text]{
+    padding: .3rem;
+}
+
+input[type=submit]{
+    padding: .3rem;
+    color: blue;
+    background: ghostwhite;
+    font-size: 1em;
+    border-radius: 10%;
+}
