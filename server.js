@@ -44,12 +44,6 @@ app.use("/list", todoListController)
 
 
 
-//New Route
-
-// app.get('/', (req, res)=> {
-//   res.send('HEY')
-// })
-
 
 app.listen(PORT, ()=>{
     reveal('This is the reveal message');
