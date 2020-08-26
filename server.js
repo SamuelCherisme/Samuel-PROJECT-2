@@ -46,9 +46,9 @@ app.use("/list", todoListController)
 
 //New Route
 
-app.get('/', (req, res)=> {
-  res.send('HEY')
-})
+// app.get('/', (req, res)=> {
+//   res.send('HEY')
+// })
 
 
 app.listen(PORT, ()=>{
