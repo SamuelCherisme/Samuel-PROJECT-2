@@ -2,13 +2,16 @@
 
 
 body{
-    background: url('https://i.pinimg.com/originals/b0/0b/36/b00b369f91445f71d828a89390508f6c.jpg');
+    background: url('https://media0.giphy.com/media/xThuWjC7yute751y0g/giphy.gif');
     margin: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align:center;
     font-weight:bold;
     color:purple;
-  
+    padding: 50px;
+    
+   
+   
     
   
 }
@@ -21,7 +24,7 @@ h1{
     margin-bottom: .5em;
     padding: 1em;
     text-align: center;
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 a{
@@ -38,19 +41,27 @@ color: ghostwhite;
 
 li{
     list-style: none;
-}
+    padding: 10px;
+    background-color: rgba(193, 235 , 187, .9);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding: 15px;
+    display: block;
+    justify-content: center;
 
+    transition: background-color .2s ease-out;
+}
 li a {
     color: ghostwhite;
 }
 
 input[type=text]{
-    padding: .3rem;
+    padding: 10px;
 }
 
 input[type=submit]{
-    padding: .3rem;
-    color: blue;
+    padding: 10px;
+    color: green;
     background: ghostwhite;
     font-size: 1em;
     border-radius: 10%;

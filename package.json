@@ -27,7 +27,10 @@
     "mongoose": "^5.10.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-drag-and-drop": "^3.0.0",
+    "react-sortablejs": "^2.0.11",
     "shards": "^1.0.3",
+    "sortablejs": "^1.6.1",
     "yarn": "^1.22.4"
   }
 }

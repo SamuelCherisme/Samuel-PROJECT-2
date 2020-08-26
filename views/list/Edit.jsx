@@ -7,7 +7,7 @@ class Edit extends React.Component{
         return(
             <Default>
             <div>
-                <h1>Edit To do List</h1>
+                <h1>Edit To Do List</h1>
                 <form action={`/list/${_id}?_method=PUT`} method="POST">
                     Name: <input type="text" name="name"value={name}/><br/>
                     Task: <input type="text" name="task" value={task}/><br/>

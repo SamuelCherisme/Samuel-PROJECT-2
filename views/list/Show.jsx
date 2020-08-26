@@ -8,7 +8,7 @@ class Show extends React.Component{
         return(
             <Default>
            <div>
-               <h1>To do List Show</h1>
+               <h1>To Do List Show</h1>
                 <p>Add {name} to {task}</p>
                 <p>{isDone}? `This is the Task</p>
                 <a href="/list">Back</a>

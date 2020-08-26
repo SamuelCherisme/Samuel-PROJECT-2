@@ -14,7 +14,7 @@ class Default extends React.Component {
                 </head>
                 <body> 
                     <nav>
-                        <li><a href="/list">Index</a></li>
+                        <li><a href="/list">Back</a></li>
                         <li><a href="/list/New">Create New</a></li>
                     </nav>
                     {this.props.children}
