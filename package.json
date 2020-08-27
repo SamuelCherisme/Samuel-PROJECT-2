@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/talltril/Samuel-PROJECT-2.git"
   },
-  "keywords": [],
+  "keywords": [
+    "heroku",
+    "web"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
